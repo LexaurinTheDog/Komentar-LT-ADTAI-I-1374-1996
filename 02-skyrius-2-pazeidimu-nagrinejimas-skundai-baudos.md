@@ -110,7 +110,7 @@ Išimtis yra siaura: priežiūros institucija gali patvirtinti paties nagrinėji
 >
 > 5. Nuomonę teikianti priežiūros institucija prireikus konsultuojasi su kita priežiūros institucija.
 
-*e-TAR redakcinė pastaba:* TAR pastaba: Įstatymo 191 straipsnio nuostatos taikomos ir asmens duomenų ir (ar) privatumo apsaugą reglamentuojančių teisės aktų pažeidimų nagrinėjimo procedūroms, pradėtoms iki įsigaliojant 2024-05-14 įstatymui Nr. XIV-2626 (2024-07-01), jeigu įsigaliojant šiam įstatymui jos nėra baigtos ir dėl jų nėra priimtas priežiūros institucijos sprendimas.
+*e-TAR redakcinė pastaba:* TAR pastaba: Įstatymo 19¹ straipsnio nuostatos taikomos ir asmens duomenų ir (ar) privatumo apsaugą reglamentuojančių teisės aktų pažeidimų nagrinėjimo procedūroms, pradėtoms iki įsigaliojant 2024-05-14 įstatymui Nr. XIV-2626 (2024-07-01), jeigu įsigaliojant šiam įstatymui jos nėra baigtos ir dėl jų nėra priimtas priežiūros institucijos sprendimas.
 
 *e-TAR redakcinė pastaba:* Papildyta straipsniu: Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 
@@ -478,7 +478,7 @@ Straipsnis nustato sprendimų, priimamų išnagrinėjus skundą, rūšis ir jų 
 
 > 1. Priežiūros institucija už Reglamento (ES) 2016/679 ir šio įstatymo pažeidimus administracines baudas skiria vadovaudamasi Reglamentu (ES) 2016/679 ir šiuo įstatymu.
 >
-> 2. Kai administracinė bauda skiriama pagal šio įstatymo 321 straipsnį, vadovaujamasi šio straipsnio 1 dalyje nustatyta tvarka.
+> 2. Kai administracinė bauda skiriama pagal šio įstatymo 32¹ straipsnį, vadovaujamasi šio straipsnio 1 dalyje nustatyta tvarka.
 >
 > 3. Administracines baudas pagal kompetenciją skiria Valstybinės duomenų apsaugos inspekcijos direktorius arba žurnalistų etikos inspektorius ar jų įgaliotas asmuo.
 >
@@ -492,7 +492,7 @@ Straipsnis nustato sprendimų, priimamų išnagrinėjus skundą, rūšis ir jų 
 
 Straipsnis atveria ketvirtąjį V skyriaus skirsnį, kurio pavadinimas 2024 m. pakeistas (žr. redakcinę pastabą), ir nustato bendrąsias administracinių baudų skyrimo taisykles. Administracinės baudos materialiniai pagrindai ir dydžiai nustatyti Reglamento (ES) 2016/679 83 straipsnyje; šis įstatymas reguliuoja procedūrą ir nacionalinius ypatumus.
 
-1 dalis nustato, kad baudos už reglamento ir šio įstatymo pažeidimus skiriamos vadovaujantis reglamentu ir šiuo įstatymu. Tai reiškia, kad baudų skyrimo kriterijai (pažeidimo pobūdis, sunkumas, trukmė, tyčia ar neatsargumas, žalos mažinimo veiksmai, bendradarbiavimas ir kt.) taikomi tiesiogiai pagal reglamentą. 2 dalis tą pačią tvarką taiko baudoms pagal 32¹ straipsnį (tekste – „321 straipsnį“ dėl prarasto viršutinio indekso).
+1 dalis nustato, kad baudos už reglamento ir šio įstatymo pažeidimus skiriamos vadovaujantis reglamentu ir šiuo įstatymu. Tai reiškia, kad baudų skyrimo kriterijai (pažeidimo pobūdis, sunkumas, trukmė, tyčia ar neatsargumas, žalos mažinimo veiksmai, bendradarbiavimas ir kt.) taikomi tiesiogiai pagal reglamentą. 2 dalis tą pačią tvarką taiko baudoms pagal 32¹ straipsnį.
 
 3 dalis nustato, kas skiria baudas: Valstybinės duomenų apsaugos inspekcijos direktorius arba žurnalistų etikos inspektorius pagal kompetenciją, arba jų įgaliotas asmuo. Įgaliojimo galimybė leidžia paskirstyti darbo krūvį (pvz., pavaduotojams pagal 10 straipsnį), tačiau įgaliojimas turi būti aiškiai įformintas.
 

@@ -33,7 +33,7 @@ Nuo 2018 m. naujos redakcijos įstatymas nebėra savarankiškas asmens duomenų 
 ## Metodas
 
 - Straipsnių tekstas perkeltas **pažodžiui** iš oficialios e-TAR suvestinės redakcijos, mašininiu būdu, be santrumpų ir praleidimų. Akivaizdūs šaltinio netikslumai (pvz., 9 straipsnio 5 dalies 4 punkto pabaigoje esantis „.;“) palikti nepakeisti.
-- e-TAR tekste prarastas viršutinio indekso formatavimas, todėl papildytų straipsnių numeriai šaltinyje rodomi kaip „71“, „141“, „191“, „192“ ir „321“ (taip pat ir nuorodose straipsnių tekste). Komentaro antraštėse jie žymimi 7¹, 14¹, 19¹, 19² ir 32¹, o cituojamas tekstas paliktas toks, koks yra šaltinyje.
+- Papildytų straipsnių numeriai su viršutiniu indeksu (7¹, 14¹, 19¹, 19² ir 32¹) pateikiami taip, kaip jie užrašyti šaltinyje – tiek antraštėse, tiek nuorodose straipsnių tekste.
 - e-TAR redakcinės pastabos (informacija apie straipsnių, dalių ir punktų pakeitimus, papildymus, numeracijos pakeitimus ir naikinimą) bei TAR pastabos pateikiamos po atitinkamo straipsnio teksto kaip atskiros pastabos su nuoroda į dalį ar punktą, kuriems jos skirtos. Prieš įstatymo tekstą esanti TAR pastaba pateikta prie 1 straipsnio.
 - Įstatymo priedas komentuojamas kaip atskiras vienetas; pasirašymo formulė ir pakeitimų sąrašas į komentuojamą tekstą neįtraukti.
 - Komentaras parengtas **tik remiantis vietiniais šaltiniais** (oficialus teisės akto tekstas ir jo metaduomenys), nenaudojant komercinių teisinių duomenų bazių. **Teismų praktika į šią versiją neįtraukta** – ji bus papildyta atskiru etapu, kaip ir kituose autoriaus komentaruose.
