@@ -120,7 +120,7 @@ Straipsnis, įstatymą papildytas 2024 m. (žr. redakcinę pastabą), reglamentu
 
 3–5 dalys nustato kompetencijos abejonių sprendimo procedūrą. Kai institucijai kyla abejonių dėl savo kompetencijos, ji Viešojo administravimo įstatymo nustatyta tvarka kreipiasi tarnybinės pagalbos į kitą priežiūros instituciją, prašydama nuomonės, ir pateikia reikiamus dokumentus. Pažeidimo nagrinėjimo terminas sustabdomas, kol gaunama nuomonė (4 dalis); tai papildo 19² straipsnyje numatytus sustabdymo pagrindus. Nuomonę teikianti institucija prireikus konsultuojasi su kita priežiūros institucija (5 dalis). Nuomonė nėra privaloma; galutinis sprendimas dėl kompetencijos lieka nagrinėjančiai institucijai, o kai nustatoma, kad klausimas jai nepriklauso, taikomas 27 straipsnio 3 dalyje numatytas skundo perdavimas.
 
-Prie straipsnio esanti TAR pastaba nustato tarpinio taikymo taisyklę: straipsnis taikomas ir procedūroms, pradėtoms iki 2024 m. pakeitimo įsigaliojimo (2024-07-01), jei jos nebuvo baigtos ir sprendimas nebuvo priimtas. Straipsnio tekste esantis numeris „191“ e-TAR versijoje atitinka 19¹ straipsnį – šaltinyje prarastas viršutinio indekso formatavimas.
+Prie straipsnio esanti TAR pastaba nustato tarpinio taikymo taisyklę: straipsnis taikomas ir procedūroms, pradėtoms iki 2024 m. pakeitimo įsigaliojimo (2024-07-01), jei jos nebuvo baigtos ir sprendimas nebuvo priimtas.
 
 ### 19² straipsnis — Pažeidimų nagrinėjimo terminų skaičiavimo sustabdymas
 
